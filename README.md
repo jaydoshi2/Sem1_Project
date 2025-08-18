@@ -1,4 +1,4 @@
-# 📚 LJ Voting System - Welcome to LJ Voting Center! 🎉
+# 📚 LJ Voting System - Welcome to LJ Voting Center! 
 
 ## 🚀 Overview
 
